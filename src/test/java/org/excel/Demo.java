@@ -9,7 +9,7 @@ public class Demo {
 		Demo a = new Demo();
 		a.Name();
 		
-		
+
 	}
 
 }
