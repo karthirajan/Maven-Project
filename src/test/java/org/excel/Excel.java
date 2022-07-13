@@ -28,11 +28,11 @@ public class Excel {
 		col.setCellValue("Student Name");
 		
 		List<String> name = new ArrayList();
-		name.add("prabu");
-		name.add("pachayan");
+		name.add("aj");
+		name.add("hama");
 		name.add("vijay");
-		name.add("mani");
-		name.add("keerthana");
+		name.add("sriram");
+		name.add("sai");
 		name.add("preeti");
 		
 		for (int i = 0; i < name.size(); i++) {
